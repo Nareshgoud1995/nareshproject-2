@@ -1,0 +1,6 @@
+public class naresh{
+public void sum(){
+//logic
+
+}
+}
